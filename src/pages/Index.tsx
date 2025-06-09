@@ -137,7 +137,7 @@ const Index = () => {
         <div className="text-center space-y-4">
           <div className="flex justify-center items-center space-x-4">
             <img 
-              src="public\lovable-uploads\logo_lighthouse_point.jpg"
+              src="/lovable-uploads/logo_lighthouse_point.jpg"
               alt="Lighthouse Point Marina Logo" 
               className="h-60 w-auto mx-auto mb-6"
             />
