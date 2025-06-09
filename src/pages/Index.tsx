@@ -137,9 +137,9 @@ const Index = () => {
         <div className="text-center space-y-4">
           <div className="flex justify-center items-center space-x-4">
             <img 
-              src="/lovable-uploads/7d36d01b-8316-48a6-914f-2b6b681d3e74.png" 
-              alt="F3 Marina Logo" 
-              className="h-24 w-auto"
+              src="public\lovable-uploads\logo_lighthouse_point.jpg"
+              alt="Lighthouse Point Marina Logo" 
+              className="h-60 w-auto mx-auto mb-6"
             />
           </div>
           <h1 className="text-4xl font-bold text-gray-900 tracking-tight">
